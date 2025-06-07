@@ -2,7 +2,7 @@
 
 🌍 **A Call to Arms for Financial Freedom**
 
-In a world where surveillance threatens to choke personal liberty, Monero Defence (@monerodefence) stands as a fierce guardian of financial privacy. We are a loose, dynamic coalition of coders, node operators, privacy advocates, whistleblowers, and journalists united by a single, unwavering mission: to shield the Monero network from the invasive reach of blockchain analysis entities like Chainalysis. These adversaries seek to unravel the anonymity that Monero guarantees, endangering those who rely on it to resist oppression. We rise to empower individuals with the tools and knowledge to reclaim their right to transact freely, beyond the grip of tyrannical systems.
+In a world where surveillance threatens the core of personal liberty, Monero Defence (@monerodefence) stands as a fierce protector of financial privacy. We are a loose, dynamic coalition of stakeholders in the success of Monero—coders, node operators, privacy advocates, whistleblowers, and journalists—united by a single mission: to shield the Monero network from the invasive reach of blockchain analysis entities like Chainalysis. These adversaries seek to unravel the anonymity that Monero guarantees, endangering those who rely on it to resist oppression. We empower individuals with the tools and knowledge to reclaim their right to transact freely, beyond the grip of tyrannical systems.
 
 ## Our Story: Defending the Bastion of Privacy
 
@@ -21,11 +21,11 @@ Blockchain analysis entities like Chainalysis thrive by exploiting direct connec
 
 These methods endanger Monero users, from activists in repressive regimes to everyday individuals seeking financial sovereignty. Allowing Chainalysis’ nodes to connect directly to your node is like leaving the gates of a castle wide open—they exploit this vulnerability to undermine the very freedoms Monero was designed to protect. By severing these connections, we can disrupt their surveillance and restore control to the community.
 
-## Our Mission: Empowering the Community to Resist
+## Our Mission: Empowering Stakeholders to Resist
 
-Monero Defence believes that safeguarding privacy is a shared duty, not the sole responsibility of Monero’s core developers. While the Monero project diligently strengthens its protocol—through features like enhanced ring signatures and Dandelion++—the development process is deliberate, prioritizing stability and consensus. Relying solely on developers to counter every threat is neither fair nor practical. That’s why we call on the Monero community—coders, node operators, and privacy enthusiasts—to join the fight.
+Monero Defence believes that safeguarding privacy is a shared duty, not the sole responsibility of Monero’s core developers. While the Monero project diligently strengthens its protocol—through features like enhanced ring signatures and Dandelion++—the development process is deliberate, prioritizing stability and consensus. Relying solely on developers to counter every threat is neither fair nor practical. That’s why we call on our coalition—coders, node operators, and privacy enthusiasts—to join the fight.
 
-We empower the community with a dual approach:
+We empower stakeholders with a dual approach:
 
 - **Community Countermeasures**: Third-party tools and practices that bolster privacy without touching Monero’s codebase. Examples include routing node traffic through Tor or I2P, using decentralized exchanges (DEXs) like Haveno, and maintaining community-driven banlists to block suspicious nodes. These solutions are immediate, accessible, and empower users to act today.
 - **Core Countermeasures**: Amendments to the Monero codebase itself, such as increasing ring sizes or enhancing Dandelion++ to make transaction tracing harder. These changes, proposed through community governance like the Monero CCS, complement community efforts with robust, protocol-level defenses.
@@ -34,7 +34,7 @@ A critical focus of our mission is disrupting Chainalysis’ reliance on **direc
 
 ## Join the Resistance
 
-Monero Defence is a rallying cry for anyone who champions financial sovereignty. Here’s how you can stand with us:
+Monero Defence is a rallying cry for all stakeholders in Monero’s success. Here’s how you can stand with us:
 
 - **Contribute Code**: Build tools like Packet Guardian or propose core enhancements to Monero’s protocol. Dive into our repositories and submit pull requests!
 - **Run a Node**: Operate a Monero node with Tor/I2P and use our community tools to filter out malicious peers, fortifying the network.
@@ -44,7 +44,7 @@ Monero Defence is a rallying cry for anyone who champions financial sovereignty.
 
 ## Our Vision: A Future of Unyielding Privacy
 
-We dream of a world where Monero stands unassailable, a bastion of financial freedom immune to surveillance and censorship. Through community-driven tools and strategic core enhancements, we ensure Monero’s promise of privacy endures—not just for us, but for all who seek refuge in its anonymity. Together, we can outmaneuver the watchers, protect the vulnerable, and uphold the right to transact without fear.
+We envision a world where Monero stands unassailable, a bastion of financial freedom immune to surveillance and censorship. Through community-driven tools and strategic core enhancements, we ensure Monero’s promise of privacy endures—not just for us, but for all who seek refuge in its anonymity. Together, we can outmaneuver the watchers, protect the vulnerable, and uphold the right to transact without fear.
 
 ## Get Involved
 
