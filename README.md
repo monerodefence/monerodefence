@@ -1,14 +1,14 @@
-# Monero Defence League
+# Monero Defence
 
 🌍 **A Call to Arms for Financial Freedom**
 
-In a world where surveillance casts a shadow over personal liberty, the Monero Defence League (@monerodefence) rises as a fierce guardian of financial privacy. We are a coalition of coders, node operators, privacy advocates, whistleblowers, and journalists united by a single, unwavering mission: to shield the Monero network from the invasive reach of blockchain analysis entities like Chainalysis. These adversaries seek to unravel the anonymity that Monero guarantees, threatening the safety of those who rely on it to resist oppression. We stand to empower individuals with the tools and knowledge to reclaim their right to transact freely, beyond the grip of tyrannical systems.
+In a world where surveillance threatens to choke personal liberty, Monero Defence (@monerodefence) stands as a fierce guardian of financial privacy. We are a loose, dynamic coalition of coders, node operators, privacy advocates, whistleblowers, and journalists united by a single, unwavering mission: to shield the Monero network from the invasive reach of blockchain analysis entities like Chainalysis. These adversaries seek to unravel the anonymity that Monero guarantees, endangering those who rely on it to resist oppression. We rise to empower individuals with the tools and knowledge to reclaim their right to transact freely, beyond the grip of tyrannical systems.
 
 ## Our Story: Defending the Bastion of Privacy
 
 Monero is a beacon of hope—a cryptocurrency built to protect. Its ring signatures, stealth addresses, and confidential transactions create a fortress of privacy for those who need it most: whistleblowers exposing corruption, journalists uncovering truth, and individuals escaping unjust persecution. But this fortress is under attack. Blockchain analysis firms like Chainalysis infiltrate Monero’s peer-to-peer (P2P) network with modified nodes, harvesting metadata to map transactions and link identities. Their weapon of choice? **Direct connections to your Monero node**.
 
-When an adversary node connects to your peer, it can capture your IP address, track transaction propagation, and pair this data with off-chain sources like exchange KYC records. This isn’t just a technical breach—it’s a direct assault on the freedom of those who depend on Monero’s anonymity to survive. The Monero Defence League is here to fortify the network, building countermeasures to block these intruders and protect the sanctuary of privacy.
+When an adversary node connects to your peer, it can capture your IP address, track transaction propagation, and pair this data with off-chain sources like exchange KYC records. This isn’t just a technical breach—it’s a direct assault on the freedom of those who depend on Monero’s anonymity to survive. Monero Defence is here to fortify the network, building countermeasures to block these intruders and protect the sanctuary of privacy.
 
 ## Why We Fight: The Threat of Blockchain Analysis
 
@@ -23,7 +23,7 @@ These methods endanger Monero users, from activists in repressive regimes to eve
 
 ## Our Mission: Empowering the Community to Resist
 
-The Monero Defence League believes that safeguarding privacy is a shared duty, not the sole responsibility of Monero’s core developers. While the Monero project diligently strengthens its protocol—through features like enhanced ring signatures and Dandelion++—the development process is deliberate, prioritizing stability and consensus. Relying solely on developers to counter every threat is neither fair nor practical. That’s why we call on the Monero community—coders, node operators, and privacy enthusiasts—to join the fight.
+Monero Defence believes that safeguarding privacy is a shared duty, not the sole responsibility of Monero’s core developers. While the Monero project diligently strengthens its protocol—through features like enhanced ring signatures and Dandelion++—the development process is deliberate, prioritizing stability and consensus. Relying solely on developers to counter every threat is neither fair nor practical. That’s why we call on the Monero community—coders, node operators, and privacy enthusiasts—to join the fight.
 
 We empower the community with a dual approach:
 
@@ -34,7 +34,7 @@ A critical focus of our mission is disrupting Chainalysis’ reliance on **direc
 
 ## Join the Resistance
 
-The Monero Defence League is a rallying cry for anyone who champions financial sovereignty. Here’s how you can stand with us:
+Monero Defence is a rallying cry for anyone who champions financial sovereignty. Here’s how you can stand with us:
 
 - **Contribute Code**: Build tools like Packet Guardian or propose core enhancements to Monero’s protocol. Dive into our repositories and submit pull requests!
 - **Run a Node**: Operate a Monero node with Tor/I2P and use our community tools to filter out malicious peers, fortifying the network.
@@ -51,10 +51,10 @@ We dream of a world where Monero stands unassailable, a bastion of financial fre
 - 👀 **Interested in**: Cryptography, decentralized systems, and dismantling surveillance capitalism.
 - 🌱 **Learning**: P2P network analysis, Go programming, and privacy-preserving protocols.
 - 💞️ **Collaborating on**: Tools like Packet Guardian, community banlists, and DEX integrations for Monero.
-- 📫 **Reach us**: Join the Monero Defence League on [Monero forums](https://forum.getmonero.org), [Matrix](https://matrix.to/#/#monero:matrix.org), or open an issue on our GitHub.
-- ⚡ **Fun fact**: The Monero Defence League was sparked by a simple truth: privacy is power, and power belongs to the people.
+- 📫 **Reach us**: Join Monero Defence on [Monero forums](https://forum.getmonero.org), [Matrix](https://matrix.to/#/#monero:matrix.org), or open an issue on our GitHub.
+- ⚡ **Fun fact**: Monero Defence was sparked by a simple truth: privacy is power, and power belongs to the people.
 
-Let’s slam the gates shut on Chainalysis and build a network where freedom reigns. Join the Monero Defence League today, and together, we’ll defend the bastion of privacy.
+Let’s slam the gates shut on Chainalysis and build a network where freedom reigns. Join Monero Defence today, and together, we’ll defend the bastion of privacy.
 
 ---
 
