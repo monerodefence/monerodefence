@@ -2,7 +2,7 @@
 
 🌍 **A Call to Arms for Financial Freedom**
 
-In a world where surveillance threatens the core of personal liberty, Monero Defence (@monerodefence) stands as a fierce protector of financial privacy. We are a loose, dynamic coalition of stakeholders in the success of Monero—coders, node operators, privacy advocates, whistleblowers, and journalists—united by a single mission: to shield the Monero network from the invasive reach of blockchain analysis entities like Chainalysis. These adversaries seek to unravel the anonymity that Monero guarantees, endangering those who rely on it to resist oppression. We empower individuals with the tools and knowledge to reclaim their right to transact freely, beyond the grip of tyrannical systems.
+In a world where surveillance threatens the core of personal liberty, Monero Defence (@monerodefence) stands as a fierce protector of financial privacy. We are a loose, dynamic coalition of stakeholders in the success of Monero—united by a single mission: to shield the Monero network from the invasive reach of blockchain analysis entities like Chainalysis. These adversaries seek to unravel the anonymity that Monero guarantees, endangering those who rely on it to resist oppression. We empower individuals with the tools and knowledge to reclaim their right to transact freely, beyond the grip of tyrannical systems.
 
 ## Our Story: Defending the Bastion of Privacy
 
